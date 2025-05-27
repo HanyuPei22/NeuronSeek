@@ -22,7 +22,7 @@ Drawing inspiration from our human brain that designs different neurons for diff
 
 ## Quick Start
 
-Here's a simple example demonstrating how to use NeuronSeek for regression tasks:
+Here's a simple example demonstrating how to use NeuronSeek for regression tasks, you can find tnlearn package [here](https://github.com/NewT123-WM/tnlearn):
 
 ```python
 from tnlearn import PolynomialTensorRegression
