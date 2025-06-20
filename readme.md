@@ -66,6 +66,19 @@ For questions or issues, please:
 - Open an issue on GitHub
 - Contact: [peihanyu1122@163.com]
 
+## Citing
+If you find this repo useful for your research, please consider citing it:
+```
+@article{Pei2025,
+  author = {Pei, Hanyu and Liao, Jing-Xiao and Zhao, Qibin and Gao, Ting and Zhang, Shijun and Zhang, Xiaoge and Fan, Feng-Lei},
+  title = {NeuronSeek: On Stability and Expressivity of Task-Driven Neurons},
+  journal = {Preprints},
+  year = {2025},
+  doi = {10.20944/preprints202506.1586.1},
+  url = {https://doi.org/10.20944/preprints202506.1586.1}
+}
+```
+
 ## Acknowledgments
 
 We thank the research community for their valuable feedback and the datasets used in our evaluations.
